@@ -1,0 +1,8 @@
+{
+    "timezone": "Asia/Shanghai",
+    "connection_mode": "websocket/webhook",
+    "token": "",
+    "verify_token": "",
+    "encrypt_key": "",
+    "webhook_port": 50000
+}
